@@ -2,15 +2,15 @@ akademiweb
 ==========
 
                                                                                                            
-                        AkademiWeb Açık Kaynak Kodlu Dosya ve İçerik Yönetim Sistemi
--------------------------------------------------------------------------------------------------------------                                                                                                           
+   AkademiWeb Açık Kaynak Kodlu Dosya ve İçerik Yönetim Sistemi
+                                                                                                       
    Sistemimiz Türkiye'de özgün olarak yapılan sayılı CMS'lerden biridir.                                   
    Akademik Bilişim Konferansı '12 ve çeşitli teknoloji dergilerinde bildirisi yayınlanmış bir sistemdir.  
                                                                                                            
-                                       author: Mustafa Özçelikörs                                         
-                                       website: http://akademiweb.thewebblog.net                          
-                                       contact: mozcelikors@gmail.com   
--------------------------------------------------------------------------------------------------------------
+   author: Mustafa Özçelikörs                                         
+   website: http://akademiweb.thewebblog.net                          
+   contact: mozcelikors@gmail.com   
+
                                                                                                            
 
 
