@@ -16,7 +16,7 @@ akademiweb
 
 
      KULLANIM SÖZLEŞMESİ VE GİZLİLİK POLİTİKASI
--------------------------------------------------------------------------------------------------------------
+
      Bu sistemi çeşitli yöntemlerle kopyalayarak resmi sitemiz harici dağıtım yapmak,
      Ücretli satışta bulunmak,
      Bu sistemdeki bilgilerle oynayarak yeniden sunmak,
@@ -27,13 +27,13 @@ akademiweb
          
      Türk Ceza Kanunu'nun Fikir ve Sanat Hakları bölümüne ve Bilişim Suçları'na göre cezai suç sayılır.
      Bu durumlar farkedildiği takdirde cezai işlemde bulunulacaktır.
--------------------------------------------------------------------------------------------------------------
+
 
 
 
 
      UFAK BİRKAÇ RİCA
--------------------------------------------------------------------------------------------------------------
+
      Bu sistemi kullanıyorsanız ve yararlı bir çalışma olduğunu düşünüyorsanız, lütfen çevrenizdekilerle de
      paylaşın. Bu sistem sayesinde, bizlerin -reklam ücreti dahil- hiç bir geliri yoktur. Bu proje sadece 
      akademisyenlerin çektiği web sitesi sıkıntısına deva olmak için geliştirilmiştir. 
@@ -48,4 +48,4 @@ akademiweb
         Mustafa Özçelikörs
         mozcelikors@gmail.com
         http://www.thewebblog.net
--------------------------------------------------------------------------------------------------------------
+
